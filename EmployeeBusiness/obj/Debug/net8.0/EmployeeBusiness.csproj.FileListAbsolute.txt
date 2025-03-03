@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\bin\Debug\net8.0\EmployeeBusiness.deps.json
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\bin\Debug\net8.0\EmployeeBusiness.dll
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\bin\Debug\net8.0\EmployeeBusiness.pdb
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\bin\Debug\net8.0\EmployeeData.dll
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\bin\Debug\net8.0\EmployeeData.pdb
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\EmployeeBusiness.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\EmployeeBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\EmployeeBusiness.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\EmployeeBusiness.AssemblyInfo.cs
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\EmployeeBusiness.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\Employee.5F4F75A1.Up2Date
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\EmployeeBusiness.dll
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\refint\EmployeeBusiness.dll
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\EmployeeBusiness.pdb
+C:\Users\crist\source\repos\EmployeeApp\EmployeeBusiness\obj\Debug\net8.0\ref\EmployeeBusiness.dll
